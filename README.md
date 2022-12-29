@@ -1,1 +1,1 @@
-# Flight-Fare-Prediction
+# Machine learning projects
